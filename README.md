@@ -1,8 +1,13 @@
 <a href="https://github.com/yunji6393"><img src="https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=300&section=header&text=Yunji%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Thank%20you%20for%20visiting%20my%20Github!&descAlignY=59&descAlign=54.9" alt="Yunji"></a>
 
 <div align="center">
+Today & Total 👀
+<br>
+<a href="https://github.com/yunji6393"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunji6393&count_bg=%23F7B6FF&title_bg=%23938F94&icon=github.svg&icon_color=%23FFFFFF&title=click+me%21&edge_flat=false"/></a>
+<br>
+<br>
 :books:Skills
-   <br>
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge?style=flat&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge?style=flat&logo=MySQL&logoColor=white">
