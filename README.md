@@ -31,13 +31,13 @@ Today & Total 👀
 <br>
 🍀 My Space 🍀
 <br>
+<a href="https://www.notion.so/ed513e7d253843cbbee75bd3b4ec772e"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge?style=flat&logo=notion&logoColor=white"></a>
+<a href="https://github.com/yunji6393"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge?style=flat&logo=github&logoColor=white"></a>
 <br>
 _______
 <br>
-<a href="https://www.notion.so/ed513e7d253843cbbee75bd3b4ec772e"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge?style=flat&logo=notion&logoColor=white"></a>
-<a href="https://github.com/yunji6393"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge?style=flat&logo=github&logoColor=white"></a>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunji6393)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunji6393)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <a href="https://github.com/yunji6393"><img src="https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=150&section=footer&text=Thank%20you%20for%20reading%20my%20post.&fontSize=25&fontAlignY=70"/></a>
