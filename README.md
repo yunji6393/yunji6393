@@ -3,7 +3,7 @@
 <div align="center">
 Today & Total 👀
 <br>
-<a href="https://github.com/yunji6393"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunji6393&count_bg=%23F7B6FF&title_bg=%23938F94&icon=github.svg&icon_color=%23FFFFFF&title=click+me%21&edge_flat=false"/></a>
+<a href="https://github.com/yunji6393"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunji6393&count_bg=%23F7B6FF&title_bg=%23938F94&icon=github.svg&icon_color=%23FFFFFF&title=Click+me%21&edge_flat=false"/></a>
 <br>
 <br>
 :books:Skills
