@@ -31,6 +31,9 @@ Today & Total 👀
 <br>
 🍀 My Space 🍀
 <br>
+<br>
+_______
+<br>
 <a href="https://www.notion.so/ed513e7d253843cbbee75bd3b4ec772e"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge?style=flat&logo=notion&logoColor=white"></a>
 <a href="https://github.com/yunji6393"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge?style=flat&logo=github&logoColor=white"></a>
   
