@@ -13,7 +13,7 @@ Today & Total 👀
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge?style=flat&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge?style=flat&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge?style=flat&logo=coffeescript&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge?style=flat&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge?style=flat&logo=php&logoColor=white">
 <br>
 <br>
 🔥 Studying🔥
