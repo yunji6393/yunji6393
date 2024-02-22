@@ -14,7 +14,7 @@ Today & Total 👀
 <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge?style=flat&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge?style=flat&logo=coffeescript&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge?style=flat&logo=PHP&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge?style=flat&logo=Php&logoColor=white"/>
 <br>
 <br>
 🔥 Studying🔥
